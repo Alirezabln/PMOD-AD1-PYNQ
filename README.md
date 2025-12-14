@@ -29,7 +29,8 @@ Key features:
    - NumPy/Matplotlib for analysis
    - Tomography reconstruction algorithms (future work)
      
-<img width="732" height="250" alt="image" src="https://github.com/user-attachments/assets/10a04077-c03e-4c64-b9eb-7647517af643" />
+<img width="601" height="317" alt="image" src="https://github.com/user-attachments/assets/998747a5-f22e-4aaf-b5d9-df503df75b1d" />
+
 
 ---
 
