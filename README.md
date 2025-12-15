@@ -10,8 +10,7 @@ Key features:
 - **AXI Stream Bridge + DMA** for high‑throughput transfers to DDR
 - **Python/PYNQ layer** for visualization, FFT analysis, and tomography algorithms
 
-<img width="958" height="229" alt="image" src="https://github.com/user-attachments/assets/565779d2-6499-4d05-8f4f-616334477833" />
-
+<img width="1846" height="506" alt="image" src="https://github.com/user-attachments/assets/9fa358cf-a686-4852-8a45-e3be265129f6" />
 
 ---
 
